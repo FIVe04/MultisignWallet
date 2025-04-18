@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/HelloWorld.sol": "Music"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/HelloWorld.sol": {
+			"keccak256": "0xcba753cbda24cae602250568c0151110edd6c509a272337f0b9e021f9dff6f0a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://329c1179db4a1cfa971fba131c38232548a4dd6d6a72ccaa68d17f1005980909",
+				"dweb:/ipfs/Qme3c4c8Q15EVdJN6eKraWyUyjzXG4i8x7CvjvgyMx2eH5"
+			]
+		}
+	},
+	"version": 1
+}
